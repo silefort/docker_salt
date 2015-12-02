@@ -1,0 +1,6 @@
+roles:
+  - nginx
+
+name:
+  - myserver
+

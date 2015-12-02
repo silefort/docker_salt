@@ -1,0 +1,7 @@
+file_roots:
+  base:
+    - /app/cd-factory/salt-states
+
+pillar_roots:
+  base:
+    - /app/cd-factory/salt-pillars
