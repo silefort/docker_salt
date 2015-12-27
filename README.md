@@ -1,6 +1,6 @@
 # docker_salt
 
-This starter kit build and run a docker container and exec salt-call within it
+This starter kit builds and runs a docker container and exec salt-call within it
 In the example provided the salt job will install and run nginx within the container
 
 ## Prepare
